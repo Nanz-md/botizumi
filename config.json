@@ -1,20 +1,9 @@
 {
-  "ownerNumber": ["6287811503157@s.whatsapp.net"],
-  "ownerName": ["Nanz"],
-  "botName": "Neobot",
-  "sessionName": "session",
-  "pathimg": "./storage/media/neobot.png",
-  "FakeNya": "NEOXY-TEAM ID © 2021",
-  
-  "apikey": {
-  "XteamKey": "YOUR_APIKEY",
-  "LeysKey": "IkyOgiwara"
-  },
-  
-  "gamewaktu": 90,
-  "limitCount": 25,
-  "gcount": {
-	"prem": 35,
-	"user": 15
-  }
+	"ip":"INTERFull.aternos.me",
+	"port": "57637",
+	"name": "Bot1",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
 }
